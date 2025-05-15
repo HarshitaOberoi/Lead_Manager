@@ -39,8 +39,8 @@ Ensure the following are installed:
 # 🔧  Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/lead-manager.git
-cd lead-manager
+git clone https://github.com/HarshitaOberoi/Lead_Manager.git
+cd Lead_Manager
 ---
 
 ## 🖥️ Backend Setup
